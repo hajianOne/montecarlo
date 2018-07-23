@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hajianOne/montecarlo/master)
+
 # A general (parallel) Monte Carlo implementation
 
 Example (finding pi using MC):
